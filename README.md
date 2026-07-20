@@ -1,1 +1,4 @@
-# etechniketan_python_Final_Project
+# Personal Expense Tracker
+Run:
+
+python main.py
